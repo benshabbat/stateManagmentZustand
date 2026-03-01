@@ -44,13 +44,14 @@ src/
 
 ```bash
 # צור פרויקט חדש
-npm create vite@latest my-zustand-app -- --template react
+npm create vite@latest my-zustand-app
 cd my-zustand-app
 npm install
 
 # התקן Zustand
 npm install zustand
 ```
+3 minutes [v]
 
 ---
 
